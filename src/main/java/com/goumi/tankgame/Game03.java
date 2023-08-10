@@ -15,6 +15,7 @@ public class Game03 extends JFrame {
         new Game03().setVisible(true);
     }
 
+
     public Game03(){
         mp = new MyPanel();
         this.add(mp);
