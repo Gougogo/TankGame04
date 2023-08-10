@@ -25,5 +25,6 @@ public class Game03 extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
         this.addKeyListener(mp);
+
     }
 }
