@@ -17,8 +17,6 @@ public class Game03 extends JFrame {
 
 
     public Game03(){
-
-
         mp = new MyPanel();
         this.add(mp);
         this.setSize(2025, 1565);
